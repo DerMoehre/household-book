@@ -1,0 +1,12 @@
+# app
+fastapi
+uvicorn
+pydantic
+watchfiles
+python-multipart
+
+# DB
+SQLAlchemy==1.4.27
+
+# funcionalities
+Pandas
